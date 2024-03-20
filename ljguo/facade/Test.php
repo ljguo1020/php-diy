@@ -9,7 +9,6 @@ class Test extends Facade {
     public static function getFacadeClass(): string
     {
         return 'ljguo\test\Test';
-    }
-
+    } 
     
 }
